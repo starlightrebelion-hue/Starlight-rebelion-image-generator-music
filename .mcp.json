@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "fl-studio": {
+      "command": "C:\\Users\\csilv\\Downloads\\fl wraper\\.venv\\Scripts\\python.exe",
+      "args": ["C:\\Users\\csilv\\Downloads\\fl wraper\\mcp_server.py"]
+    },
+    "pigments": {
+      "command": "C:\\Users\\csilv\\Downloads\\fl wraper\\.venv\\Scripts\\python.exe",
+      "args": ["C:\\Users\\csilv\\Downloads\\fl wraper\\mcp_pigments.py"]
+    }
+  }
+}
