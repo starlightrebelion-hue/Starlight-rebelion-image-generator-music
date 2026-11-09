@@ -1,0 +1,26 @@
+{
+  "repetida": true,
+  "se_parece_a": [
+    "Lunar Skyline 2075",
+    "Orbital Uprising 2071"
+  ],
+  "cambios": [
+    "director: Cambia la acción principal: en lugar de presionar una foto contra la chaqueta, que la sostenga con ambas manos mientras la mira desde una posición de pie en movimiento, como si estuviera a punto de tirarla o dejarla ir.",
+    "arte: Modifica el lugar: en lugar de un túnel seco y abandonado, colócalo en un entorno acuático más dinámico, como una estructura flotante de madera y metal sobre el agua, con reflejos de luces lejanas en movimiento.",
+    "fotografo: Cambia el encuadre: de medium close-up / low angle a un plano medio con ángulo neutro, enfocando la figura desde frente o ligeramente de lado, sin el efecto de elevación.",
+    "vestuario: Cambia el objeto clave: en lugar de una foto, que la imagen sea un fragmento de pantalla con un video en bucle de una ciudad distorsionada, sostenida en la palma de la mano.",
+    "casting: Cambia el personaje: aunque sea una mujer de 24 años, que tenga un aspecto más urbano y distinto: cabello corto y teñido en tonos azul oscuro, con una cicatriz leve en la mejilla, y no el mismo tipo de cabello auburn ni el mismo gesto facial."
+  ],
+  "medicion": [
+    {
+      "titulo": "Lunar Skyline 2075",
+      "parecido": 0.41,
+      "mismo_combo": false
+    },
+    {
+      "titulo": "Orbital Uprising 2071",
+      "parecido": 0.33,
+      "mismo_combo": false
+    }
+  ]
+}

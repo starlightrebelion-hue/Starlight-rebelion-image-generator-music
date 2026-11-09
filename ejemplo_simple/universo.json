@@ -1,0 +1,80 @@
+{
+  "_nota": "Universo propio del canal (formato del universo de Doble Fondo). Personajes ORIGINALES construidos sobre los arquetipos del cyberpunk de anime, manga y novela (netrunner, samurai callejero, cirujano clandestino, desertor corporativo, mensajero, ex policia cyborg). Ninguno copia a un personaje existente. Edades de 18 a 30 (pedido del usuario). Los textos de 'aspecto', 'vestuario', 'objetos', 'implantes', 'gestos' y 'prompt' van en ingles porque van directo al prompt de imagen.",
+  "reglas": "Neo-Kansai Delta, 2089. Una megaciudad vertical construida sobre una bahia que se tragó la ciudad vieja: los barrios de abajo se inundan con cada marea y los de arriba no ven el suelo. Llueve casi siempre. Tres corporaciones (Hesper Biotics, Kuroshio Logistics y la aseguradora Meridian) son dueñas del aire, el agua y la memoria. La gente compra y vende recuerdos en chips del tamaño de una bala. La tecnologia es retrofuturista: CRT de fosforo, cintas, cables enrulados, implantes de cromo gastado. Nada sobrenatural. Los personajes recuerdan lo que les paso en temas anteriores.",
+  "personajes": {
+    "lena_sato": {
+      "nombre": "Lena Sato-Moreau",
+      "alias": "Undertow",
+      "arquetipo": "buceadora que rescata cosas de la ciudad hundida",
+      "genero": "woman",
+      "edad": 24,
+      "aspecto": "strong lean woman of 24, light brown skin with salt-dry lips, a sharp face, wavy shoulder-length auburn hair wet and tangled, dark eyes with a slight squint, gill-like scar lines of a breathing implant on both sides of her neck",
+      "vestuario": "a patched black wetsuit peeled down to the waist over a thermal top, a yellow vinyl raincoat thrown over the shoulders, a diving knife strapped to the calf, rubber boots",
+      "implantes": [
+        "breathing implant slits on the neck that glow faintly cyan underwater"
+      ],
+      "objetos": [
+        "a brass diving lamp",
+        "a net bag of salvaged objects from drowned apartments",
+        "a waterproof polaroid camera"
+      ],
+      "oficio": "Bucea en los barrios que se trago la bahia y saca recuerdos de verdad: fotos, juguetes, cartas. Los devuelve o los vende.",
+      "historia": "Su barrio fue el primero que se hundio. Cada noche baja a su propia casa a buscar el album de fotos de la familia, cuarto por cuarto.",
+      "deseo": "Encontrar el album de su familia en la casa hundida.",
+      "miedo": "Las corrientes de la marea alta que arrastran a los buzos al tunel.",
+      "contradiccion": "Vive de los recuerdos de otros mientras busca los suyos.",
+      "secreto": "Ya encontro el album y no lo saco: tiene miedo de no tener razon para volver a bajar.",
+      "gestos": [
+        "surfacing from black water with the brass lamp raised",
+        "drying a salvaged photograph against her raincoat under a streetlight",
+        "photographing a drowned room with the polaroid",
+        "wringing out her hair on a half-submerged staircase"
+      ],
+      "lugares": [
+        "ciudad_sumergida"
+      ],
+      "arco": [
+        {
+          "tema": 2051,
+          "titulo": "Lunar Departure",
+          "que_hizo": "Saca una foto de su bolsillo mientras emerge del agua, la sostiene con ambas manos alzada frente a su pecho, mirándola con intensidad, como si estuviera a punto de tirarla o dejarla ir, en un momento de tensión entre el recuerdo y la necesidad de seguir adelante.",
+          "lugar": "ciudad_sumergida"
+        }
+      ]
+    }
+  },
+  "locaciones": {
+    "ciudad_sumergida": {
+      "nombre": "Barrio hundido",
+      "prompt": "a drowned old neighbourhood at low tide, street lamps standing in black water, the top floors of old apartment blocks rising from the bay, a staircase descending into the water, laundry lines still strung between balconies, the megatowers glowing on the horizon",
+      "luz": "cold moonlight and one lamp left on a balcony against distant tower glow",
+      "atmosfera": "still water, fog, ghostly quiet",
+      "utileria": [
+        "a floating doll's house",
+        "a bicycle half sunk",
+        "family photos drying on a balcony",
+        "a rowing boat tied to a lamp post"
+      ],
+      "que_pasa": "Aca vivia la gente antes de la marea. Los buzos bajan a buscar lo que quedo.",
+      "acciones": [
+        "surfacing with a lamp",
+        "rowing between submerged lamp posts",
+        "drying a photograph on a balcony",
+        "photographing a drowned room"
+      ],
+      "historial_texto": [
+        {
+          "campo": "luz",
+          "valor": "cold moonlight and a single diving lamp against distant tower glow"
+        }
+      ]
+    }
+  },
+  "canon": [
+    {
+      "tema": 2051,
+      "titulo": "Lunar Departure",
+      "hecho": "Lena Sato-Moreau: Saca una foto de su bolsillo mientras emerge del agua, la sostiene con ambas manos alzada frente a su pecho, mirándola con intensidad, como si estuviera a punto de tirarla o dejarla ir, en un momento de tensión entre el recuerdo y la necesidad de seguir adelante."
+    }
+  ]
+}

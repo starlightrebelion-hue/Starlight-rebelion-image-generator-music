@@ -1,0 +1,22 @@
+{
+  "id": "ejemplo_simple",
+  "nombre": "Ejemplo simple · Lunar Departure",
+  "idea": "Una buceadora de la ciudad sumergida rescata del agua la ultima foto de su familia.",
+  "premisa": {
+    "titulo": "Lunar Departure",
+    "logline": "La despedida no es un adiós, sino el acto de dejar atrás lo que ya no puede salvarse, para seguir buscando lo que no se puede encontrar.",
+    "genero": "Synthwave · cyberpunk anime 90s",
+    "formato": "Un tema = una escena",
+    "tono": "melancolico, nocturno"
+  },
+  "config": {
+    "ollama_modelo": "qwen3:30b-a3b-instruct-2507-q4_K_M",
+    "num_ctx": 16384,
+    "comfy_url": "http://127.0.0.1:8188",
+    "bloom": "fuerte",
+    "negros": "suave",
+    "estilo_guion": null
+  },
+  "etapa": "guion",
+  "creado": "2026-11-08T11:01:17"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "toma/2051",
+  "versiones": [
+    {
+      "v": 1,
+      "candidatos": [
+        {
+          "archivo": "v001_1.png",
+          "hash": "e9317b08f9966d5f07d8404a0aca0c8501674c52"
+        }
+      ],
+      "receta": {
+        "legado": true
+      },
+      "receta_hash": "legado",
+      "modelo": "anterior",
+      "fecha": "2026-11-08T11:01:17",
+      "legado": true
+    }
+  ]
+}

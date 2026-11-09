@@ -1,0 +1,12 @@
+{
+  "puntajes": {
+    "historia": 5,
+    "coherencia": 5,
+    "detalle": 5,
+    "foco": 4,
+    "identidad": 5,
+    "seguridad": 5
+  },
+  "aprobado": true,
+  "correcciones": []
+}

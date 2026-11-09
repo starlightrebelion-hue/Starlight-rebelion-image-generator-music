@@ -1,0 +1,17 @@
+{
+  "premisa": "La despedida no es un adiós, sino el acto de dejar atrás lo que ya no puede salvarse, para seguir buscando lo que no se puede encontrar.",
+  "actos": [
+    {
+      "titulo": "Acto unico",
+      "secuencias": [
+        {
+          "titulo": "La foto",
+          "sinopsis": "",
+          "temas": [
+            2051
+          ]
+        }
+      ]
+    }
+  ]
+}

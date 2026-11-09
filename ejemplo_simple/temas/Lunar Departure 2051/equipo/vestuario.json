@@ -1,0 +1,19 @@
+{
+  "prompt_visual": "A 24-year-old woman with light brown skin, sharp features, and wavy shoulder-length auburn hair - wet and tangled - stands in shallow black water at low tide. Dark eyes with a slight squint, gill-like scar lines on both neck sides. Her lean, weathered frame is partially lit by a brass diving lamp raised high, its beam cutting through thick fog and fine rain. The lamp has a sheepskin collar and burn marks on the base. Her left hand grips it with white-knuckled force. Her right hand holds a faded Polaroid photo flat against her chest, fingers splayed, edges smudged with water and time. The photo shows a family laughing at a table, image faint and distorted. A magenta pulse flickers from a cracked satellite dish above, suspended by rusted cables anchored to rooftops, glow reflected in fractured waves. Her patched black wetsuit is peeled down to the waist, cracked at the shoulders, worn elbows, broken zipper at the neck. A quilted nylon vest, charcoal gray, burn marks on one cuff, broken zipper, crimson lining.",
+  "prendas": [
+    "waxed canvas lifejacket, deep indigo, oil stains along seams, restitched at the left shoulder, one button missing, mismatched fabric patch",
+    "patched black wetsuit, peeled down to the waist, cracked at the shoulders, worn elbows, broken zipper at the neck",
+    "threadbare lana turtleneck, missing one button, mismatched fabric patch, oil stains",
+    "quilted nylon vest, charcoal gray, burn marks, broken zipper, crimson lining",
+    "cracked leather trench coat, deep indigo, worn elbows, oil stains, restitched seams"
+  ],
+  "objetos": [
+    "a brass diving lamp with a sheepskin collar and burn marks on the base",
+    "a faded Polaroid photo of a family laughing at a table, edges smudged with water and time",
+    "a cuffed data band on the left wrist, chrome, glowing faintly teal, port exposed and corroded"
+  ],
+  "tecnologia": [
+    "chrome data port on left wrist, glowing faintly teal, corroded edges",
+    "cyan-glowing breathing implant slits on both sides of the neck, visible underwater"
+  ]
+}
