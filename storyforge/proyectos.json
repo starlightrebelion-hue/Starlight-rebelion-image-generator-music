@@ -1,0 +1,39 @@
+{
+  "proyectos": [
+    {
+      "id": "ejemplo_1",
+      "nombre": "Ejemplo 1 · Agente Frequency / Neo-Kansai Delta",
+      "formato": "Portadas de temas synthwave (una imagen por tema)",
+      "universo": "universo/universo.json",
+      "temas": "Agente Frequency",
+      "referencias": "universo/referencias",
+      "nota": "Primer proyecto conectado: 12 personajes, 17 lugares y los temas de la tanda 2048-2087.",
+      "carpeta": "C:\\Users\\csilv\\Downloads\\fl wraper\\storyforge\\proyectos\\ejemplo_1",
+      "tipo": "ejemplo1"
+    },
+    {
+      "id": "ejemplo_simple",
+      "nombre": "Ejemplo simple · Lunar Departure",
+      "tipo": "carpeta",
+      "carpeta": "C:\\Users\\csilv\\Downloads\\fl wraper\\storyforge\\proyectos\\ejemplo_simple",
+      "nota": "1 tema para recorrer todas las etapas",
+      "abierto": "2026-11-08T11:01:17"
+    },
+    {
+      "id": "df_005",
+      "nombre": "Doble Fondo · Ficha roja",
+      "tipo": "carpeta",
+      "carpeta": "C:\\Users\\csilv\\Downloads\\fl wraper\\storyforge\\proyectos\\df_005",
+      "nota": "importado de DF_005 (sin tocar el original)",
+      "abierto": "2026-11-08T11:21:18"
+    },
+    {
+      "id": "df_006",
+      "nombre": "Doble Fondo · Humo en el retrovisor",
+      "tipo": "carpeta",
+      "carpeta": "C:\\Users\\csilv\\Downloads\\fl wraper\\storyforge\\proyectos\\df_006",
+      "nota": "importado de DF_006 (sin tocar el original)",
+      "abierto": "2026-11-08T11:35:09"
+    }
+  ]
+}
