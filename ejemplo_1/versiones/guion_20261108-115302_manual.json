@@ -1,0 +1,672 @@
+{
+  "premisa": "",
+  "secuencias": [
+    {
+      "id": "s1",
+      "titulo": "Kaito Veyra",
+      "acto": "Temporada 1",
+      "sinopsis": "",
+      "escenas": [
+        {
+          "id": "t2048",
+          "tema": 2048,
+          "int_ext": "EXT.",
+          "lugar": "MERCADO DE RECUERDOS BAJO LAS LONAS",
+          "lugar_id": "mercado_nocturno",
+          "momento": "NOCHE",
+          "titulo": "Violet Path",
+          "accion": "Kaito Veyra, a netrunner who steals memories, is accessing a stranger's past when a hidden memory begins to surface — the twisted data cable on the ground pulses as if it were a physical path from the past.",
+          "dialogos": [],
+          "elenco": [
+            "kaito_veyra"
+          ],
+          "estado": "guardada",
+          "notas": "Está accediendo a un recuerdo de un extraño usando sus dedos implantados, mientras el cable de datos en el suelo responde al contacto físico con un destello que coincide con el momento en que el recuerdo se activa.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium close-up, low angle looking up",
+              "accion": "Está accediendo a un recuerdo de un extraño usando sus dedos implantados, mientras el cable de datos en el suelo responde al contacto físico con un destello que coincide con el momento en que el recuerdo se activa.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": "/img?p=C%3A/Users/csilv/Downloads/fl%20wraper/Agente%20Frequency/Violet%20Path%202048/toma/v001_1.png&t=1794100759394351400",
+          "gesto": "pressing two glowing fingertips against a sleeping stranger's temple",
+          "objeto": null,
+          "miniatura_lugar": null
+        },
+        {
+          "id": "t2072",
+          "tema": 2072,
+          "int_ext": "EXT.",
+          "lugar": "CASA DE EMPEÑO DE ELECTRONICA VIEJA",
+          "lugar_id": "casa_de_empeno",
+          "momento": "NOCHE",
+          "titulo": "Crimson Tide",
+          "accion": "Kaito Veyra, a netrunner who steals memories to find his mother's lost recollection, is about to connect a stolen memory chip to his ear port, but the system is already reading him.",
+          "dialogos": [],
+          "elenco": [
+            "kaito_veyra"
+          ],
+          "estado": "guardada",
+          "notas": "Está activando un mecanismo oculto con una llave mecánica de datos insertada en una ranura oculta del cajón de memoria, mientras el sistema lo detecta y una sombra proyectada desde el suelo no es la suya, sino del objeto que está siendo leído.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium shot, low angle looking up",
+              "accion": "Está activando un mecanismo oculto con una llave mecánica de datos insertada en una ranura oculta del cajón de memoria, mientras el sistema lo detecta y una sombra proyectada desde el suelo no es la suya, sino del objeto que está siendo leído.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": "/img?p=C%3A/Users/csilv/Downloads/fl%20wraper/Agente%20Frequency/Crimson%20Tide%202072/toma/v001_1.png&t=1794102671232850400",
+          "gesto": "counting chips in the bandolier with his thumb",
+          "objeto": 1,
+          "miniatura_lugar": null
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "titulo": "Ines Calloway",
+      "acto": "Temporada 1",
+      "sinopsis": "",
+      "escenas": [
+        {
+          "id": "t2049",
+          "tema": 2049,
+          "int_ext": "EXT.",
+          "lugar": "VAGON DEL TREN NOCTURNO",
+          "lugar_id": "tren_nocturno",
+          "momento": "NOCHE",
+          "titulo": "City Reborn",
+          "accion": "Una cerrajera de 19 años intenta abrir una cerradura con una llave que no abre nada, mientras una ciudad fantasma comienza a encenderse detrás de una ventana rota.",
+          "dialogos": [],
+          "elenco": [
+            "yuki_lindqvist"
+          ],
+          "estado": "guardada",
+          "notas": "Está usando una llave antigua para activar un mecanismo oculto en la pared detrás de una ventana rota, mientras una ciudad fantasma comienza a encenderse como respuesta a su acción física.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium close-up, three quarter profile from below",
+              "accion": "Está usando una llave antigua para activar un mecanismo oculto en la pared detrás de una ventana rota, mientras una ciudad fantasma comienza a encenderse como respuesta a su acción física.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": "/img?p=C%3A/Users/csilv/Downloads/fl%20wraper/Agente%20Frequency/City%20Reborn%202049/toma/v001_1.png&t=1794100754157567900",
+          "gesto": "working a lock pick into an old padlock while glancing back",
+          "objeto": null,
+          "miniatura_lugar": null
+        },
+        {
+          "id": "t2073",
+          "tema": 2073,
+          "int_ext": "EXT.",
+          "lugar": "INVERNADERO EN LA TORRE",
+          "lugar_id": "invernadero_torre",
+          "momento": "NOCHE",
+          "titulo": "Foglight Drift",
+          "accion": "Ines, una cerrajera que roba para devolver lo que fue robado, intenta escuchar el último recuerdo de un reloj que no le pertenece, mientras una luz cian de emergencia latiendo desde el piso la presiona desde abajo.",
+          "dialogos": [],
+          "elenco": [
+            "ines_calloway"
+          ],
+          "estado": "guardada",
+          "notas": "Está activando el último recuerdo de un reloj que no le pertenece, usando una manivela física en la caja fuerte para liberar el archivo de memoria, mientras una luz cian de emergencia latiente desde el piso responde al mecanismo.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium close-up, low angle looking up",
+              "accion": "Está activando el último recuerdo de un reloj que no le pertenece, usando una manivela física en la caja fuerte para liberar el archivo de memoria, mientras una luz cian de emergencia latiente desde el piso responde al mecanismo.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": null,
+          "gesto": "kneeling with an ear pressed to a safe door and a stethoscope",
+          "objeto": null,
+          "miniatura_lugar": null
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "titulo": "Jun Matsuda-Reyes",
+      "acto": "Temporada 1",
+      "sinopsis": "",
+      "escenas": [
+        {
+          "id": "t2050",
+          "tema": 2050,
+          "int_ext": "EXT.",
+          "lugar": "AZOTEA DE LOS TANQUES DE AGUA",
+          "lugar_id": "azotea_tanques",
+          "momento": "NOCHE",
+          "titulo": "Electric Dune",
+          "accion": "Un joven repartidor de drones intenta activar un recuerdo prohibido en un dron dañado mientras una patrulla de drones corporativos se acerca por el cielo.",
+          "dialogos": [],
+          "elenco": [
+            "jun_matsuda"
+          ],
+          "estado": "guardada",
+          "notas": "Jun presiona con el pulgar el núcleo roto de un dron dañado para activar un recuerdo prohibido, mientras una patrulla de drones corporativos se acerca por el cielo.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium shot, three quarter profile from below",
+              "accion": "Jun presiona con el pulgar el núcleo roto de un dron dañado para activar un recuerdo prohibido, mientras una patrulla de drones corporativos se acerca por el cielo.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": "/img?p=C%3A/Users/csilv/Downloads/fl%20wraper/Agente%20Frequency/Electric%20Dune%202050/toma/v001_1.png&t=1794100755207790600",
+          "gesto": "whistling up at a flock of drones circling a water tank",
+          "objeto": 0,
+          "miniatura_lugar": null
+        },
+        {
+          "id": "t2074",
+          "tema": 2074,
+          "int_ext": "EXT.",
+          "lugar": "AZOTEA DE LOS TANQUES DE AGUA",
+          "lugar_id": "azotea_tanques",
+          "momento": "NOCHE",
+          "titulo": "Tunnel Pulse",
+          "accion": "Un joven rebelde libera un dron que no es solo una máquina, sino un corazón que late con el recuerdo prohibido de un accidente, mientras una patrulla corporativa se acerca por el cielo.",
+          "dialogos": [],
+          "elenco": [
+            "jun_matsuda"
+          ],
+          "estado": "guardada",
+          "notas": "Está soltando un dron de reparto desde el borde de un tanque de agua, mientras el núcleo de cristal líquido que late dentro de su carcasa rota emite un pulso verde que responde al ritmo de la música, y una patrulla corporativa se acerca por el cielo.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium close-up, low angle looking up",
+              "accion": "Está soltando un dron de reparto desde el borde de un tanque de agua, mientras el núcleo de cristal líquido que late dentro de su carcasa rota emite un pulso verde que responde al ritmo de la música, y una patrulla corporativa se acerca por el cielo.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": "/img?p=C%3A/Users/csilv/Downloads/fl%20wraper/Agente%20Frequency/Tunnel%20Pulse%202074/toma/v001_1.png&t=1794102893141588400",
+          "gesto": "releasing a drone into the rain from the edge of a rooftop",
+          "objeto": null,
+          "miniatura_lugar": null
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "titulo": "Lena Sato-Moreau",
+      "acto": "Temporada 1",
+      "sinopsis": "",
+      "escenas": [
+        {
+          "id": "t2051",
+          "tema": 2051,
+          "int_ext": "EXT.",
+          "lugar": "BARRIO HUNDIDO",
+          "lugar_id": "ciudad_sumergida",
+          "momento": "NOCHE",
+          "titulo": "Lunar Departure",
+          "accion": "Una buceadora intenta rescatar el último recuerdo de su familia desde un barrio hundido, mientras una señal mágenta en el cielo late al ritmo de un mensaje no enviado.",
+          "dialogos": [],
+          "elenco": [
+            "lena_sato"
+          ],
+          "estado": "guardada",
+          "notas": "Saca una foto de su bolsillo mientras emerge del agua, la sostiene con ambas manos alzada frente a su pecho, mirándola con intensidad, como si estuviera a punto de tirarla o dejarla ir, en un momento de tensión entre el recuerdo y la necesidad de seguir adelante.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium shot, slight high angle",
+              "accion": "Saca una foto de su bolsillo mientras emerge del agua, la sostiene con ambas manos alzada frente a su pecho, mirándola con intensidad, como si estuviera a punto de tirarla o dejarla ir, en un momento de tensión entre el recuerdo y la necesidad de seguir adelante.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": "/img?p=C%3A/Users/csilv/Downloads/fl%20wraper/Agente%20Frequency/Lunar%20Departure%202051/toma/v001_1.png&t=1794100757289690400",
+          "gesto": "surfacing from black water with the brass lamp raised",
+          "objeto": null,
+          "miniatura_lugar": null
+        },
+        {
+          "id": "t2075",
+          "tema": 2075,
+          "int_ext": "EXT.",
+          "lugar": "BARRIO HUNDIDO",
+          "lugar_id": "ciudad_sumergida",
+          "momento": "NOCHE",
+          "titulo": "Lunar Skyline",
+          "accion": "Una buceadora de recuerdos intenta ocultar una foto familiar que ya encontró, mientras una luz cálida desde un apartamento hundido la observa desde el fondo.",
+          "dialogos": [],
+          "elenco": [
+            "lena_sato"
+          ],
+          "estado": "guardada",
+          "notas": "Está secando una foto familiar con su impermeable para ocultarla, mientras la luz cálida de un apartamento hundido la observa desde detrás, con el reflejo de una figura en el agua que no está en el cuadro.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium close-up, low angle looking up",
+              "accion": "Está secando una foto familiar con su impermeable para ocultarla, mientras la luz cálida de un apartamento hundido la observa desde detrás, con el reflejo de una figura en el agua que no está en el cuadro.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": "/img?p=C%3A/Users/csilv/Downloads/fl%20wraper/Agente%20Frequency/Lunar%20Skyline%202075/toma/v001_1.png&t=1794103108746899800",
+          "gesto": "drying a salvaged photograph against her raincoat under a streetlight",
+          "objeto": null,
+          "miniatura_lugar": null
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "titulo": "Kofi Asante",
+      "acto": "Temporada 1",
+      "sinopsis": "",
+      "escenas": [
+        {
+          "id": "t2052",
+          "tema": 2052,
+          "int_ext": "EXT.",
+          "lugar": "CASETA EN LA TORRE DE RADIO",
+          "lugar_id": "torre_radio",
+          "momento": "NOCHE",
+          "titulo": "Frontier Horizon",
+          "accion": "Kofi Asante, a pirate radio broadcaster, tries to tune a signal that carries the past while the hunter drone approaches and the mast's red light exposes him.",
+          "dialogos": [],
+          "elenco": [
+            "kofi_asante"
+          ],
+          "estado": "guardada",
+          "notas": "Está sintonizando una señal que carga el pasado, usando un transmisor de maleta montado en la pared para recibir una transmisión que no puede ser eliminada, mientras el dron cazador se acerca y la luz roja de la torre lo revela.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium close-up, low angle looking up",
+              "accion": "Está sintonizando una señal que carga el pasado, usando un transmisor de maleta montado en la pared para recibir una transmisión que no puede ser eliminada, mientras el dron cazador se acerca y la luz roja de la torre lo revela.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": "/img?p=C%3A/Users/csilv/Downloads/fl%20wraper/Agente%20Frequency/Frontier%20Horizon%202052/toma/v001_1.png&t=1794100756234162700",
+          "gesto": "turning the big tuning dial of the suitcase transmitter",
+          "objeto": 0,
+          "miniatura_lugar": null
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "titulo": "Yuki Lindqvist",
+      "acto": "Temporada 1",
+      "sinopsis": "",
+      "escenas": [
+        {
+          "id": "t2053",
+          "tema": 2053,
+          "int_ext": "EXT.",
+          "lugar": "BAR LOW TIDE",
+          "lugar_id": "bar_low_tide",
+          "momento": "NOCHE",
+          "titulo": "Two Moons Drift",
+          "accion": "Yuki Lindqvist, a 25-year-old singer hiding messages in her songs, is about to drop the microphone to run toward a broken window, torn between the system that watches her and the orange light from a severed antenna that calls her from beyond the glass.",
+          "dialogos": [],
+          "elenco": [
+            "yuki_lindqvist"
+          ],
+          "estado": "guardada",
+          "notas": "Está a punto de activar un mecanismo oculto con el pie, mientras mantiene las manos firmemente aferradas al micrófono, listo para soltarlo y correr hacia la ventana rota.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium shot, low angle looking up",
+              "accion": "Está a punto de activar un mecanismo oculto con el pie, mientras mantiene las manos firmemente aferradas al micrófono, listo para soltarlo y correr hacia la ventana rota.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": "/img?p=C%3A/Users/csilv/Downloads/fl%20wraper/Agente%20Frequency/Two%20Moons%20Drift%202053/toma/v001_1.png&t=1794100758880953200",
+          "gesto": "gripping the ribbon microphone with both gloved hands, eyes fixed on someone at the door",
+          "objeto": 0,
+          "miniatura_lugar": null
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "titulo": "Nadia Okoro",
+      "acto": "Temporada 1",
+      "sinopsis": "",
+      "escenas": [
+        {
+          "id": "t2054",
+          "tema": 2054,
+          "int_ext": "EXT.",
+          "lugar": "TUNEL DEL SUBTE INUNDADO",
+          "lugar_id": "tunel_inundado",
+          "momento": "NOCHE",
+          "titulo": "Foglight Pulse",
+          "accion": "Nadia Okoro, una mensajera que evita mirar lo que lleva, está a punto de descubrir lo que hay en un chip prohibido mientras el único sistema que aún funciona late a su espaldas.",
+          "dialogos": [],
+          "elenco": [
+            "nadia_okoro"
+          ],
+          "estado": "guardada",
+          "notas": "Está activando un chip de datos con un cuchillo de datos, presionando su hoja sobre la superficie del chip mientras mantiene el equilibrio sobre el soporte de una moto flotante, con la mirada fija en el reflejo del pulso en su ojo implantado.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium shot, three quarter profile from below",
+              "accion": "Está activando un chip de datos con un cuchillo de datos, presionando su hoja sobre la superficie del chip mientras mantiene el equilibrio sobre el soporte de una moto flotante, con la mirada fija en el reflejo del pulso en su ojo implantado.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": "/img?p=C%3A/Users/csilv/Downloads/fl%20wraper/Agente%20Frequency/Foglight%20Pulse%202054/toma/v001_1.png&t=1794100755706326400",
+          "gesto": "kicking the motorbike stand down in knee-deep water",
+          "objeto": null,
+          "miniatura_lugar": null
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "titulo": "Ottilie Brandt",
+      "acto": "Temporada 1",
+      "sinopsis": "",
+      "escenas": [
+        {
+          "id": "t2056",
+          "tema": 2056,
+          "int_ext": "EXT.",
+          "lugar": "VAGON DEL TREN NOCTURNO",
+          "lugar_id": "tren_nocturno",
+          "momento": "NOCHE",
+          "titulo": "Neon Mirage",
+          "accion": "Una contadora desertora con un maletín blindado atado a su muñeca intenta escapar en un tren nocturno, mientras el reflejo de una ciudad que nunca fue la suya en la ventana le recuerda que ella misma firmó su destrucción.",
+          "dialogos": [],
+          "elenco": [
+            "ottilie_brand"
+          ],
+          "estado": "guardada",
+          "notas": "Está a punto de abrir la maleta blindada atada a su muñeca, mientras una luz anaranjada sube desde el suelo hacia sus pies, y el reflejo de una ciudad que no existe en la ventana le recuerda que ella misma firmó su destrucción.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium close-up, low angle looking up",
+              "accion": "Está a punto de abrir la maleta blindada atada a su muñeca, mientras una luz anaranjada sube desde el suelo hacia sus pies, y el reflejo de una ciudad que no existe en la ventana le recuerda que ella misma firmó su destrucción.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": "/img?p=C%3A/Users/csilv/Downloads/fl%20wraper/Agente%20Frequency/Neon%20Mirage%202056/toma/v001_1.png&t=1794100757815829700",
+          "gesto": "clutching the handcuffed briefcase to her chest on a crowded train",
+          "objeto": 0,
+          "miniatura_lugar": null
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "titulo": "Mara Quell",
+      "acto": "Temporada 1",
+      "sinopsis": "",
+      "escenas": [
+        {
+          "id": "t2057",
+          "tema": 2057,
+          "int_ext": "EXT.",
+          "lugar": "MERCADO DE RECUERDOS BAJO LAS LONAS",
+          "lugar_id": "mercado_nocturno",
+          "momento": "NOCHE",
+          "titulo": "Rainlight Pulse",
+          "accion": "Una ex agente de seguridad corporativa, cuyo brazo cibernético aún está bajo el control de su antiguo jefe, ajusta un tornillo en su codo mientras el sistema que la vigila responde con un pulso de advertencia que sincroniza con su respiración.",
+          "dialogos": [],
+          "elenco": [
+            "mara_quell"
+          ],
+          "estado": "guardada",
+          "notas": "Ajusta un tornillo en su codo cibernético con una llave de datos en la mano derecha, mientras presiona la palma de su mano izquierda contra un nodo de datos incrustado en la pared para activarlo y evitar que el sistema remoto la apague.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium shot, low angle looking up",
+              "accion": "Ajusta un tornillo en su codo cibernético con una llave de datos en la mano derecha, mientras presiona la palma de su mano izquierda contra un nodo de datos incrustado en la pared para activarlo y evitar que el sistema remoto la apague.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": "/img?p=C%3A/Users/csilv/Downloads/fl%20wraper/Agente%20Frequency/Rainlight%20Pulse%202057/toma/v001_1.png&t=1794100758354271300",
+          "gesto": "tightening a bolt in her own elbow with a wrench held in her teeth",
+          "objeto": null,
+          "miniatura_lugar": null
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "titulo": "Bashir Kane",
+      "acto": "Temporada 1",
+      "sinopsis": "",
+      "escenas": [
+        {
+          "id": "t2058",
+          "tema": 2058,
+          "int_ext": "EXT.",
+          "lugar": "MUELLES DE KUROSHIO",
+          "lugar_id": "muelles_gruas",
+          "momento": "NOCHE",
+          "titulo": "Last Light Departure",
+          "accion": "Bashir Kane, a massive man in worn gear, tries to open a rusted container door with a crowbar while the last functioning machine of a dying order watches him, knowing the fragile life inside could be his last chance to resist.",
+          "dialogos": [],
+          "elenco": [
+            "bashir_kane"
+          ],
+          "estado": "guardada",
+          "notas": "Está forzando la puerta de un contenedor con un palanquín para liberar a alguien escondido dentro, mientras el último sistema funcional de una orden moribunda lo observa, y el único calor en un mundo de acero y aceite proviene de una forma humana bajo una lona.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium close-up, low angle looking up",
+              "accion": "Está forzando la puerta de un contenedor con un palanquín para liberar a alguien escondido dentro, mientras el último sistema funcional de una orden moribunda lo observa, y el único calor en un mundo de acero y aceite proviene de una forma humana bajo una lona.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": "/img?p=C%3A/Users/csilv/Downloads/fl%20wraper/Agente%20Frequency/Last%20Light%20Departure%202058/toma/v001_1.png&t=1794100756747675400",
+          "gesto": "prying a container door open with the crowbar",
+          "objeto": null,
+          "miniatura_lugar": null
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "titulo": "Viktor Ramos",
+      "acto": "Temporada 1",
+      "sinopsis": "",
+      "escenas": [
+        {
+          "id": "t2059",
+          "tema": 2059,
+          "int_ext": "EXT.",
+          "lugar": "CUARTO DE MOTEL CON LA CIUDAD EN LA VENTANA",
+          "lugar_id": "motel_ventana",
+          "momento": "NOCHE",
+          "titulo": "Coastline Veil",
+          "accion": "Viktor Ramos, un ex cazador de androides, carga su arma en una habitación de motel mientras el reflejo de una ciudad que no existe muestra una luz que él no debería poder ver.",
+          "dialogos": [],
+          "elenco": [
+            "viktor_ramos"
+          ],
+          "estado": "guardada",
+          "notas": "Carga un revólver en una mesa de motel mientras su mano izquierda presiona el paraguas cerrado sobre la superficie, como si lo usara para apoyar el peso de algo invisible, con la mirada fija en el cañón del arma.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium shot, low angle looking up",
+              "accion": "Carga un revólver en una mesa de motel mientras su mano izquierda presiona el paraguas cerrado sobre la superficie, como si lo usara para apoyar el peso de algo invisible, con la mirada fija en el cañón del arma.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": "/img?p=C%3A/Users/csilv/Downloads/fl%20wraper/Agente%20Frequency/Coastline%20Veil%202059/toma/v001_1.png&t=1794100754671841900",
+          "gesto": "loading the revolver at a motel table under a bare bulb",
+          "objeto": null,
+          "miniatura_lugar": null
+        },
+        {
+          "id": "t2071",
+          "tema": 2071,
+          "int_ext": "EXT.",
+          "lugar": "BARRA DE FIDEOS DE LA ESQUINA",
+          "lugar_id": "fideos_mostrador",
+          "momento": "NOCHE",
+          "titulo": "Orbital Uprising",
+          "accion": "A 29-year-old ex-cop connects a data cable to a hidden satellite dish in a rain-soaked noodle bar, shielding a fugitive android from a system that still marks her as a target.",
+          "dialogos": [],
+          "elenco": [
+            "viktor_ramos"
+          ],
+          "estado": "guardada",
+          "notas": "Está conectando un cable de datos al puerto de una estructura oculta para activar un receptor, mientras el reflejo del pulso magenta en el charco le confirma que la señal proviene de la rejilla detrás del bar, no del cielo.",
+          "planos": [
+            {
+              "id": "p1",
+              "tipo": "PM",
+              "que_se_ve": "medium close-up, three quarter profile from below",
+              "accion": "Está conectando un cable de datos al puerto de una estructura oculta para activar un receptor, mientras el reflejo del pulso magenta en el charco le confirma que la señal proviene de la rejilla detrás del bar, no del cielo.",
+              "duracion": null,
+              "estado": "toma",
+              "miniatura": null,
+              "estado_imagen": null,
+              "previz": null
+            }
+          ],
+          "miniatura": null,
+          "gesto": "holding an umbrella over a young woman while staring down the street",
+          "objeto": null,
+          "miniatura_lugar": null
+        }
+      ]
+    }
+  ],
+  "version": 3,
+  "escenas": {
+    "2048": {
+      "sinopsis": "Kaito Veyra, a netrunner who steals memories, is accessing a stranger's past when a hidden memory begins to surface — the twisted data cable on the ground pulses as if it were a physical path from the past."
+    },
+    "2072": {
+      "sinopsis": "Kaito Veyra, a netrunner who steals memories to find his mother's lost recollection, is about to connect a stolen memory chip to his ear port, but the system is already reading him."
+    },
+    "2049": {
+      "sinopsis": "Una cerrajera de 19 años intenta abrir una cerradura con una llave que no abre nada, mientras una ciudad fantasma comienza a encenderse detrás de una ventana rota."
+    },
+    "2073": {
+      "sinopsis": "Ines, una cerrajera que roba para devolver lo que fue robado, intenta escuchar el último recuerdo de un reloj que no le pertenece, mientras una luz cian de emergencia latiendo desde el piso la presiona desde abajo."
+    },
+    "2050": {
+      "sinopsis": "Un joven repartidor de drones intenta activar un recuerdo prohibido en un dron dañado mientras una patrulla de drones corporativos se acerca por el cielo."
+    },
+    "2074": {
+      "sinopsis": "Un joven rebelde libera un dron que no es solo una máquina, sino un corazón que late con el recuerdo prohibido de un accidente, mientras una patrulla corporativa se acerca por el cielo."
+    },
+    "2051": {
+      "sinopsis": "Una buceadora intenta rescatar el último recuerdo de su familia desde un barrio hundido, mientras una señal mágenta en el cielo late al ritmo de un mensaje no enviado."
+    },
+    "2075": {
+      "sinopsis": "Una buceadora de recuerdos intenta ocultar una foto familiar que ya encontró, mientras una luz cálida desde un apartamento hundido la observa desde el fondo."
+    },
+    "2052": {
+      "sinopsis": "Kofi Asante, a pirate radio broadcaster, tries to tune a signal that carries the past while the hunter drone approaches and the mast's red light exposes him."
+    },
+    "2053": {
+      "sinopsis": "Yuki Lindqvist, a 25-year-old singer hiding messages in her songs, is about to drop the microphone to run toward a broken window, torn between the system that watches her and the orange light from a severed antenna that calls her from beyond the glass."
+    },
+    "2054": {
+      "sinopsis": "Nadia Okoro, una mensajera que evita mirar lo que lleva, está a punto de descubrir lo que hay en un chip prohibido mientras el único sistema que aún funciona late a su espaldas."
+    },
+    "2056": {
+      "sinopsis": "Una contadora desertora con un maletín blindado atado a su muñeca intenta escapar en un tren nocturno, mientras el reflejo de una ciudad que nunca fue la suya en la ventana le recuerda que ella misma firmó su destrucción."
+    },
+    "2057": {
+      "sinopsis": "Una ex agente de seguridad corporativa, cuyo brazo cibernético aún está bajo el control de su antiguo jefe, ajusta un tornillo en su codo mientras el sistema que la vigila responde con un pulso de advertencia que sincroniza con su respiración."
+    },
+    "2058": {
+      "sinopsis": "Bashir Kane, a massive man in worn gear, tries to open a rusted container door with a crowbar while the last functioning machine of a dying order watches him, knowing the fragile life inside could be his last chance to resist."
+    },
+    "2059": {
+      "sinopsis": "Viktor Ramos, un ex cazador de androides, carga su arma en una habitación de motel mientras el reflejo de una ciudad que no existe muestra una luz que él no debería poder ver."
+    },
+    "2071": {
+      "sinopsis": "A 29-year-old ex-cop connects a data cable to a hidden satellite dish in a rain-soaked noodle bar, shielding a fugitive android from a system that still marks her as a target."
+    }
+  }
+}
